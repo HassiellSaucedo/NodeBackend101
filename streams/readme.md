@@ -35,6 +35,20 @@ when the server is running, use this code to see the big file contents:
 
 `node streams/readable-stream.js `
 
-- use this command to execute the readable-stream example code:
+- use this command to execute the readable-stream-on-demand.js example code:
 
 `node streams/readable-stream-on-demand.js`
+
+- use this command to execute the duplex example code:
+
+`node streams/duplex.js`
+
+- use this command to execute the transform example code:
+
+`node streams/transform.js`
+
+- use this command to execute the CamelCase example code:
+
+`node streams/CamelCaseStream.js`
+
+With this code, write a sentence in the terminal to watch how it converts into CamelCase.
