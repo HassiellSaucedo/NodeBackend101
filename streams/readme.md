@@ -15,15 +15,26 @@ Used tools:
 
 `node streams/big_server.js`
 
-when te server is running, use this code to see the big file contents:
+when the server is running, use this code to see the big file contents:
 
 `curl -l localhost:3000`
 
-- use this command to execute the  example code:
+- use this command to execute the stream-server example code:
 
 `node streams/stream-server.js`
 
-when te server is running, use this code to see the big file contents:
+when the server is running, use this code to see the big file contents:
 
 `curl -l localhost:3000`
 
+- use this command to execute the writable-stream example code:
+
+`node streams/writable-stream.js`
+
+- use this command to execute the readable-stream example code:
+
+`node streams/readable-stream.js `
+
+- use this command to execute the readable-stream example code:
+
+`node streams/readable-stream-on-demand.js`
